@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{43EED578-5BF3-4356-AE23-CB2784E6A216}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverTrial", "ObserverTrial", "{60FDDFF9-D16B-4546-8346-99323149A412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverTrial", "src\ObserverTrial\ObserverTrial.csproj", "{24013E82-6FE4-43C2-94D8-8894218CDB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24013E82-6FE4-43C2-94D8-8894218CDB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24013E82-6FE4-43C2-94D8-8894218CDB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24013E82-6FE4-43C2-94D8-8894218CDB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24013E82-6FE4-43C2-94D8-8894218CDB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60FDDFF9-D16B-4546-8346-99323149A412} = {43EED578-5BF3-4356-AE23-CB2784E6A216}
+		{24013E82-6FE4-43C2-94D8-8894218CDB17} = {60FDDFF9-D16B-4546-8346-99323149A412}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D19D297C-5AE4-4C5E-8994-CCB951B8D09D}
+	EndGlobalSection
+EndGlobal
